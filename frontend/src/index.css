@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+:root {
+  --font-sans: 'Space Grotesk', 'Trebuchet MS', sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --text: #13252d;
+  --background: #f0ede6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: var(--text);
+  font-family: var(--font-sans);
+  background:
+    radial-gradient(circle at 10% 10%, #f8d8a8 0%, rgba(248, 216, 168, 0) 48%),
+    radial-gradient(circle at 88% 18%, #92d2c4 0%, rgba(146, 210, 196, 0) 50%),
+    linear-gradient(180deg, #f7f4ed 0%, var(--background) 100%);
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
