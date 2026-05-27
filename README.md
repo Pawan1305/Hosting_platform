@@ -13,6 +13,11 @@ Simple full-stack app for onboarding hosting clients and automating deployment j
 5. Worker updates deployment status to `Completed` or `Failed`.
 6. UI polls `GET /api/status/:id` every 3 seconds.
 
+## Flow Chart
+
+[Open the Excalidraw flow diagram](https://excalidraw.com/#json=QcsI9AshKNE722RiQWn9E,aw0O4nijoca50cg85v1vcA)
+
+
 ## Project Structure
 
 - `frontend` : React control panel
