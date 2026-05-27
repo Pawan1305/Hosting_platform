@@ -4,7 +4,7 @@ Full-stack deployment control panel for onboarding clients and running container
 
 Stack: React + Vite, Express, MongoDB, Redis (BullMQ), AWS SSM, and AWS Lambda.
 
-![Architecture Visual](frontend/src/assets/hero.png)
+![Architecture Visual](frontend/src/assets/UI.png)
 
 ## What This Project Does
 
