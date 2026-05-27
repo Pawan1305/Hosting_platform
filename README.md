@@ -41,7 +41,7 @@ flowchart LR
   A -->|Return status snapshot| U
 ```
 
-Provided flow chart (Excalidraw):
+Basic/Rough flow chart (Excalidraw):
 
 - https://excalidraw.com/#json=QcsI9AshKNE722RiQWn9E,aw0O4nijoca50cg85v1vcA
 
